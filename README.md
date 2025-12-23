@@ -2,6 +2,10 @@
 Project Title:
 Gudang Garam Financial Performance 2024
 
+Link notion page:
+[(English version)](https://www.notion.so/ekapujiwara/Gudang-Garam-Financial-Performance-2024-2cdc5d1ee80d80ed8f39caeb42a1f8fa?source=copy_link)
+[(versi Bahasa Indonesia)](https://www.notion.so/ekapujiwara/Gudang-Garam-Financial-Performance-2024-2cec5d1ee80d81849cf4d7c23ac41192?source=copy_link)
+
 Dashboard Preview:
 ![page1](https://github.com/Pujiwara/Pictures/blob/main/Financial_Dashboard_GGRM_pdf_page-0001.jpg)
 ![page2](https://github.com/Pujiwara/Pictures/blob/main/Financial_Dashboard_GGRM_pdf_page-0002.jpg)
